@@ -1,5 +1,6 @@
 ## The Summer of Us
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到主页](https://boheme130.github.io/Fiction.git.io/) <br>
+[回到上一页](https://boheme130.github.io/LilyMorton.git.io/)
 
 ![avatar](https://castrostreetfair.org/wp-content/uploads/2018/09/exhibitor-gabrielgarbow.jpg)
 <br>
